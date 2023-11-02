@@ -95,7 +95,7 @@
     <td style="text-align: center">39.38</td>
   </tr>
   <tr>
-    <td style="text-align: center">R18-ViT</td>
+    <td style="text-align: center">R18-ViT(w/ pretrain)</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">-</td>
     <td style="text-align: center">55.76</td>
