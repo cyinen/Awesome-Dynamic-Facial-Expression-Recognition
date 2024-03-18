@@ -260,7 +260,7 @@
     <td style="text-align: center">52.55</td>
   </tr> 
   <tr>
-    <td style="text-align: center">S2D</td>
+    <td style="text-align: center">S2D<sup>[15]</sup></td>
     <td style="text-align: center">Arxiv</td>
     <td style="text-align: center">2023</td>
     <td style="text-align: center">61.82</td>
@@ -306,3 +306,4 @@
 12. Wang H, Li B, Wu S, Shen S, Liu F, Ding S, Zhou A. Rethinking the Learning Paradigm for Dynamic Facial Expression Recognition. *CVPR*, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Rethinking_the_Learning_Paradigm_for_Dynamic_Facial_Expression_Recognition_CVPR_2023_paper.html)] [[Code](https://github.com/faceeyes/M3DFEL)]
 13. Sun L, Lian Z, Liu B, Tao J. MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition. *ACM MM*, 2023. [[Paper](https://arxiv.org/abs/2307.02227)] [[Code](https://github.com/sunlicai/MAE-DFER)]
 14. Zhao Z, Patras I. Prompting Visual-Language Models for Dynamic Facial Expression Recognition. *BMVC*, 2023. [[Paper](https://arxiv.org/abs/2308.13382)] [[Code](https://github.com/zengqunzhao/DFER-CLIP)]
+15. Chen, Yin, et al. "From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos." arXiv preprint arXiv:2312.05447 (2023). [[Paper]([https://arxiv.org/abs/2308.13382](https://arxiv.org/abs/2312.05447))] [[Code](https://github.com/MER-LMC/S2D)]
