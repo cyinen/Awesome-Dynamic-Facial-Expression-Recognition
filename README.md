@@ -270,6 +270,17 @@
     <td style="text-align: center">41.86</td>
     <td style="text-align: center">57.37</td>
   </tr> 
+    <tr>
+    <td style="text-align: center">A$^3$lign-DFER<sup>[16]</sup></td>
+    <td style="text-align: center">arXiv</td>
+    <td style="text-align: center">2024</td>
+    <td style="text-align: center">64.09</td>
+    <td style="text-align: center">74.02</td>
+    <td style="text-align: center">41.87</td>
+    <td style="text-align: center">51.79</td>
+    <td style="text-align: center">42.07</td>
+    <td style="text-align: center">53.24</td>
+  </tr> 
 <!-- copy this to add new methods
   <tr>
     <td style="text-align: center"></td>
@@ -307,3 +318,4 @@
 13. Sun L, Lian Z, Liu B, Tao J. MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition. *ACM MM*, 2023. [[Paper](https://arxiv.org/abs/2307.02227)] [[Code](https://github.com/sunlicai/MAE-DFER)]
 14. Zhao Z, Patras I. Prompting Visual-Language Models for Dynamic Facial Expression Recognition. *BMVC*, 2023. [[Paper](https://arxiv.org/abs/2308.13382)] [[Code](https://github.com/zengqunzhao/DFER-CLIP)]
 15. Chen, Yin, et al. "From Static to Dynamic: Adapting Landmark-Aware Image Models for Facial Expression Recognition in Videos." arXiv preprint arXiv:2312.05447 (2023). [[Paper](https://arxiv.org/abs/2312.05447)] [[Code](https://github.com/MER-LMC/S2D)]
+16. Tao, Zeng, et al. "A $^{3} $ lign-DFER: Pioneering Comprehensive Dynamic Affective Alignment for Dynamic Facial Expression Recognition with CLIP." arXiv preprint arXiv:2403.04294 (2024) [[Paper](https://arxiv.org/abs/2403.04294)]
