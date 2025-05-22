@@ -281,6 +281,17 @@
     <td style="text-align: center">42.07</td>
     <td style="text-align: center">53.24</td>
   </tr> 
+      <tr>
+    <td style="text-align: center">S4D</td>
+    <td style="text-align: center">arXiv</td>
+    <td style="text-align: center">2024</td>
+    <td style="text-align: center">66.80</td>
+    <td style="text-align: center">76.68</td>
+    <td style="text-align: center">43.41</td>
+    <td style="text-align: center">53.65</td>
+    <td style="text-align: center">43.72</td>
+    <td style="text-align: center">58.44</td>
+  </tr> 
 <!-- copy this to add new methods
   <tr>
     <td style="text-align: center"></td>
